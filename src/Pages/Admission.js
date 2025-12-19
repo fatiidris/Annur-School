@@ -12,13 +12,11 @@ return (
 
     <div className="admission-col">
     <div className="admission-row">
-    <h2>We are one of the top exellent schools</h2>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
-    sed do eiusmod tempor ipsum dolor sit amet, consectetur 
-    adipiscing elit, sed do eiusmod tempor ipsum dolor sit
-    amet, consectetur adipiscing elit, sed do eiusmod tempor 
-    ipsum dolor sit amet, consectetur adipiscing elit, sed do 
-    eiusmod tempor</p>
+    <h2>Join One of the Leading Schools</h2>
+    <p>We take pride in being one of the top-performing schools, committed to providing excellent academic and moral education. 
+      Prospective students and parents are warmly invited to visit our campus, learn about our programmes, and purchase 
+      admission forms. Our admissions process is designed to ensure a smooth and transparent experience for all applicants, 
+      reflecting our dedication to quality education and student development.</p>
     <button className="btn">Explore Now!!!</button>
     </div>
     <div className="admission-row">
