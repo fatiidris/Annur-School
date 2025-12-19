@@ -13,7 +13,7 @@ return(
 
    <div className="sections adm">
        <h1>Welcome to Secondary Section</h1>
-               <p>The Secondary Section of our school is designed to nurture young
+          <p>The Secondary Section of our school is designed to nurture young
          adolescen  ts into confident, responsible, and academically grounded 
          individuals who are prepared for further education and meaningful
           careers. Our curriculum, facilities, and teaching methodologies

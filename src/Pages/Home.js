@@ -12,7 +12,7 @@ return(
 
     <div className="hero-img" id="Home">
         <div className="hero-text">
-            <h1>An-nur Islamic School</h1>
+            <h1>An-Nur Model Islamic School, Minna</h1>
             <p>From a strong foundation in Nursery education to advanced academic preparation at the Secondary level, we foster a lifelong passion for learning and equip students 
                 with the knowledge and skills required for global success.</p>
             <Link className="link" to="/Admission"><button className="btn">Begin Your Children's Journey</button></Link>
@@ -113,7 +113,7 @@ return(
      </div>       
 
      <div className="sections">
-        <h1>Your Path to An-nur</h1>
+        <h1>Your Path to An-Nur</h1>
         <p>Our admissions process is designed to be straightforward 
         and supportive, guiding your family every step of the way.</p>
      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1967.0964483171242!2d6.555031043719149!3d9.578634526114513!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x104c730ae8c52f0f%3A0xdfd4bb190f674256!2sANNUR%20MODEL%20ISLAMIC%20SCHOOL!5e0!3m2!1sen!2sng!4v1764855153568!5m2!1sen!2sng" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -123,7 +123,7 @@ return(
         <div className="sections blue-bg" id="Testimonies">
         <h1>Hear from our community</h1>
         <div className="sections-row">
-        "Choosing An-nur Ismalic Academy for our children, from Nursery 
+        "Choosing An-Nur Model Ismalic Academy for our children, from Nursery 
         right through to Secondary, has been the best decision. 
         The school fosters not just academic growth, but also 
         incredible character and confidence. We couldn't be 

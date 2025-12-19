@@ -7,18 +7,18 @@ return (
     <>
     <NavBar />
     <div className="blank">
-          <h1>Terms and Conditions for An-nur</h1>
+          <h1>Terms and Conditions for An-Nur</h1>
 <p>Last Updated: 18th/11/2025</p>
-<h2>Welcome to An-nur.</h2>
+<h2>Welcome to An-Nur.</h2>
 <p>By accessing or using our website and services, you agree to follow
  and be bound by the Terms and Conditions outlined below. Please read them carefully.</p>
 
 <h3>1.	Acceptance of Terms</h3>
-<p>By using An-nur website, you confirm that you have read, understood, and agree to comply with these Terms and Conditions.
+<p>By using An-Nur website, you confirm that you have read, understood, and agree to comply with these Terms and Conditions.
 If you do not agree, please stop using our platform.</p>
 
 <h3>2.	Eligibility</h3>
-<p>You must be at least 13 years old to use An-nur.
+<p>You must be at least 13 years old to use An-Nur.
 By using the platform, you represent that you meet this requirement.</p>
 
 <h3>3.	Use of Our Services</h3>
@@ -32,7 +32,7 @@ You must not:</p>
 </ul>
 
 <h3>4.	User Accounts</h3>
-<p>When creating an account on An-nur, you agree to:</p>
+<p>When creating an account on An-Nur, you agree to:</p>
 <ul>
 <li> Provide accurate and complete information </li>
 <li> Keep your login details confidential</li>
@@ -41,17 +41,17 @@ You must not:</p>
 </ul>
 
 <h3>5.	Intellectual Property Rights</h3>
-<p>All content on An-nur—including text, graphics, icons, tutorials, trainings, images, branding, and other digital materials—is the property of Cardlect or its content creators.
+<p>All content on An-Nur—including text, graphics, icons, tutorials, trainings, images, branding, and other digital materials—is the property of Cardlect or its content creators.
 You agree not to:</p>
 <ul>
 <li>Copy, reproduce, or redistribute any content without permission</li>
-<li>Use An-nur's content for commercial purposes without authorization </li>
-<li>Claim ownership of any An-nur material</li>
+<li>Use An-Nur's content for commercial purposes without authorization </li>
+<li>Claim ownership of any An-Nur material</li>
 </ul>
 
 <ul>
 <h3>6.	User-Generated Content</h3>
-<p>If you upload, submit, or share content on An-nur, you:</p>
+<p>If you upload, submit, or share content on An-Nur, you:</p>
 <li>Grant us a non-exclusive license to use, display, and distribute the content</li>
 <li>Confirm that your content does not violate any laws or third-party rights</li>
 <li>Take full responsibility for your submissions</li>
@@ -59,7 +59,7 @@ You agree not to:</p>
 </ul>
 
 <h3>7.	Third-Party Links</h3>
-<p>An-nur may contain links to third-party websites or services.
+<p>An-Nur may contain links to third-party websites or services.
 We are not responsible for:</p>
 <ul>
 <li>Their content</li>
@@ -108,7 +108,7 @@ Any disputes will be handled under Nigerian legal jurisdiction.</p>
 <h3>13.	Contact Us</h3>
 <p>For questions or concerns about these Terms, contact us:</p>
 <ul>
-<li>📧 info@An-nur.com </li>
+<li>📧 annureduservices@gmail.com </li>
 <li>🌍 Nigeria </li>
 </ul>
     </div>
