@@ -13,16 +13,16 @@ function NavBar() {
         <nav>
             <div className="logo">
                 <img src={logo} alt="Logo" className="nav-logo" />
-                <h4>An-Nur Model <br />Islamic School</h4>
+                <h4>An-Nur Model <br />Islamic School, Minna</h4>
             </div>
 
             <ul className="nav-links" id="checkmenu" style={{ right: isMenuOpen ? "0" : "-500px" }}>
                 <i className="fa fa-times" onClick={hideMenu}></i>
                 <li><Link className="link" to="/">Home</Link></li>
-                <li><Link className="link" to="/About">About</Link></li>
-                <li><Link className="link" to="/Updates">Updates</Link></li>
-                <li><Link className="link" to="/Testimonies">Testimonials</Link></li>
-                <li><Link className="link" to="/Contact">Contact</Link></li>
+                <li><Link className="link" to="/#About">About</Link></li>
+                <li><Link className="link" to="/#Updates">Updates</Link></li>
+                <li><Link className="link" to="/#Testimonies">Testimonials</Link></li>
+                <li><Link className="link" to="/#Contact">Contact</Link></li>
 
                 <div className="dropdown">
                     <li><a href="#">More</a></li>
