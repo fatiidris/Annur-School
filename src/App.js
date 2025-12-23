@@ -1,5 +1,6 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 
+import ScrollToSection from './Components/ScrollToSection';
 import Home from './Pages/Home';
 import Nursery from './Pages/Nursery';
 import Primary from './Pages/Primary';
@@ -13,6 +14,7 @@ function App() {
   return (
     <div>
       <BrowserRouter>
+      <ScrollToSection />
         <Routes>
           <Route index element={<Home />} />
           <Route path="/Login" element={<Home />} />

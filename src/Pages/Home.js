@@ -22,9 +22,10 @@ return(
 
      <div className="sections" id="About">
         <h1>Our Core Values</h1>
-        <p>We are dedicated to providing and enriching, stimulating, 
-            and supportive educational <br /> environment that empowers 
-            every student to reach their full potential.</p>
+        <p>With faith in Allah, we stand strong,
+We learn and strive all day long. <br />Respect and humility guide our way,
+With modesty and self-control every day.  <br />We serve our community, near and far,
+We are An-Nur—shining like a star </p>
             <div className="sections-col">
         <div className="sections-row">
              <i className="fa-solid fa-seedling"></i> 

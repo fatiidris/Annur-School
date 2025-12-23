@@ -7,7 +7,7 @@ function Secondary() {
 return(
    <>
   <NavBar />
-  <div className="sec-bg secondary">
+  <div className="sec-bg">
            <h1>Secondary Section</h1>
     </div>
 

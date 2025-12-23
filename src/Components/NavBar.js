@@ -28,7 +28,7 @@ function NavBar() {
                     <li><a href="#">More</a></li>
                     <div className="dropdown-content">
                         <li><Link className="link" to="/Admission">Admission</Link></li>
-                        <li><Link className="link" to="#">Results</Link></li>
+                        {/* <li><Link className="link" to="#">Results</Link></li> */}
                     </div>
                 </div>
                 <li><Link className="link" to="https://eportal.an-nur.com.ng/" onClick={hideMenu}>Login</Link></li>

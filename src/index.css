@@ -275,10 +275,13 @@ nav .fa-bars{
     padding-top: 100px;
    }
    .hero-text h1{
-    font-size: 35px;
+    font-size: 30px;
+   }
+   .hero-text p{
+    font-size: 16px;
    }
    .hero-img{
-    height: 50vh;
+    height: 55vh;
    }
 }
 
@@ -330,6 +333,18 @@ nav .fa-bars{
 .adm .sections-row p{
    font-size: 16px;
 }
+.gallery {
+    text-align: center;
+}
+
+.gallery-col{
+    display: flex;
+    justify-content: center;
+}
+.gallery-col img{
+    width: 400px;
+    margin: 10px;
+}
 
 @media screen and (min-width: 270px) and (max-width: 1000px)  {
    .admission-col{
@@ -338,5 +353,12 @@ nav .fa-bars{
 }
 .admission-row img{
      width: 100%;
+}
+.gallery-col{
+    flex-direction: column;
+}
+.gallery-col img{
+    width: 350px;
+    margin:10px auto;
 }
 }
